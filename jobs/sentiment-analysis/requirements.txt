@@ -56,7 +56,7 @@ pyasn1==0.6.1
 pydantic==2.10.3
 pydantic_core==2.27.1
 pymssql==2.3.2
-python-dotenv==1.0.1
+python-dotenv==1.2.2
 python-jose==3.4.0
 pytz==2024.2
 referencing==0.35.1
